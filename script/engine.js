@@ -136,8 +136,8 @@ var Engine = {
 			
 		$('<span>')
 			.addClass('menuBtn')
-			.text(_('app store.'))
-			.click(function() { window.open('https://itunes.apple.com/us/app/a-dark-room/id736683061'); })
+			.text(_('vo.'))
+			.click(function() { window.open('http://adarkroom.doublespeakgames.com/'); })
 			.appendTo(menu);	
 		
 		// Register keypress handlers
