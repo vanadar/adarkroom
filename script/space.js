@@ -440,6 +440,13 @@ var Space = {
 				                	.click(Engine.confirmDelete)
 				                	.appendTo('.centerCont')
 				                	.animate({opacity:1},1500);
+					    		$('<span>')
+						    		.addClass('endGame endGameShare')
+						    		.text(_('share.'))
+						    		.click(function(){
+						    			Score.share( Score.calculateScore() );
+						    		}).appendTo('.centerCont')
+						    		.animate({opacity:1},1500);
 					    		Engine.options = {};
 				                Engine.deleteSave(true);
 							}

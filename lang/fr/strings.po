@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: adarkroom\n"
-"POT-Creation-Date: 2014-02-09 13:11+0100\n"
-"PO-Revision-Date: 2014-02-28 20:44+0100\n"
-"Last-Translator: Vanadar <vanadar.univers@gmail.com>\n"
+"POT-Creation-Date: 2014-03-14 12:14+0100\n"
+"PO-Revision-Date: 2014-03-14 12:15+0100\n"
+"Last-Translator: louis <louis@make-me-viral.com>\n"
 "Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -14,6 +14,453 @@ msgstr ""
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: s;\n"
 "X-Poedit-SearchPath-0: ./../../script\n"
+
+#: ../../script/engine.js:21
+msgid "boxer"
+msgstr "boxeur"
+
+#: ../../script/engine.js:22
+msgid "punches do more damage"
+msgstr "les points font plus de dégats"
+
+#: ../../script/engine.js:23
+msgid "learned to throw punches with purpose"
+msgstr "appris à donner des coups de points avec un objectif"
+
+#: ../../script/engine.js:26
+msgid "martial artist"
+msgstr "maître d'un art martial"
+
+#: ../../script/engine.js:27
+msgid "punches do even more damage."
+msgstr "les coups de points font plus de dégats"
+
+#: ../../script/engine.js:28
+msgid "learned to fight quite effectively without weapons"
+msgstr "apprendre à se battre de façon efficace sans arme"
+
+#: ../../script/engine.js:31
+msgid "unarmed master"
+msgstr "expert en combat à mains nues"
+
+#: ../../script/engine.js:32
+msgid "punch twice as fast, and with even more force"
+msgstr "frapper deux fois plus vite, et avec plus de force"
+
+#: ../../script/engine.js:33
+msgid "learned to strike faster without weapons"
+msgstr "appris à attaquer plus vite sans arme"
+
+#: ../../script/engine.js:36
+msgid "barbarian"
+msgstr "barbare"
+
+#: ../../script/engine.js:37
+msgid "melee weapons deal more damage"
+msgstr "les armes de mêlés font plus de dégâts"
+
+#: ../../script/engine.js:38
+msgid "learned to swing weapons with force"
+msgstr "vous savez manier vos armes avec plus de force"
+
+# contexte ?
+#: ../../script/engine.js:41
+msgid "slow metabolism"
+msgstr "métabolisme lent"
+
+#: ../../script/engine.js:42
+msgid "go twice as far without eating"
+msgstr "aller deux fois plus loin sans manger"
+
+#: ../../script/engine.js:43
+msgid "learned how to ignore the hunger"
+msgstr "vous savez ignorer la faim"
+
+#: ../../script/engine.js:46
+msgid "desert rat"
+msgstr "rat du désert"
+
+#: ../../script/engine.js:47
+msgid "go twice as far without drinking"
+msgstr "aller deux fois plus loin sans boire"
+
+#: ../../script/engine.js:48
+msgid "learned to love the dry air"
+msgstr "vous savez apprécier l'air sec"
+
+#: ../../script/engine.js:51
+msgid "evasive"
+msgstr "esquive"
+
+#: ../../script/engine.js:52
+msgid "dodge attacks more effectively"
+msgstr "esquiver les attaques de façon plus efficace"
+
+#: ../../script/engine.js:53
+msgid "learned to be where they're not"
+msgstr "vous savez être là où ils ne sont pas"
+
+#: ../../script/engine.js:56
+msgid "precise"
+msgstr "précision"
+
+# description pour la précision ...
+#: ../../script/engine.js:57
+msgid "land blows more often"
+msgstr "mieux reconnaître les mouvements"
+
+#: ../../script/engine.js:58
+msgid "learned to predict their movement"
+msgstr "vous savez prédire leurs mouvement"
+
+#: ../../script/engine.js:61
+msgid "scout"
+msgstr "éclaireur"
+
+#: ../../script/engine.js:62
+msgid "see farther"
+msgstr "voir plus loin"
+
+#: ../../script/engine.js:63
+msgid "learned to look ahead"
+msgstr "vous savez regarder plus loin"
+
+#: ../../script/engine.js:66
+msgid "stealthy"
+msgstr "furtif"
+
+#: ../../script/engine.js:67
+msgid "better avoid conflict in the wild"
+msgstr "mieux éviter les conflits dans un environnement hostile"
+
+#: ../../script/engine.js:68
+msgid "learned how not to be seen"
+msgstr "vous savez comment ne pas être vu"
+
+#: ../../script/engine.js:71
+msgid "gastronome"
+msgstr "gastronome"
+
+#: ../../script/engine.js:72
+msgid "restore more health when eating"
+msgstr "récupérer plus de vie en mangeant"
+
+#: ../../script/engine.js:73
+msgid "learned to make the most of food"
+msgstr "vous savez tirer partie un maximum de la nourriture"
+
+#: ../../script/engine.js:115 ../../script/engine.js:409
+msgid "lights off."
+msgstr "lumières éteintes."
+
+#: ../../script/engine.js:121 ../../script/space.js:439
+msgid "restart."
+msgstr "recommencer."
+
+#: ../../script/engine.js:127
+msgid "share."
+msgstr "partager."
+
+#: ../../script/engine.js:133
+msgid "save."
+msgstr "sauvegarder."
+
+#: ../../script/engine.js:139
+msgid "app store."
+msgstr "app store"
+
+#: ../../script/engine.js:217
+msgid "Export / Import"
+msgstr "Exporter/Importer"
+
+#: ../../script/engine.js:220
+msgid "export or import save data, for backing up"
+msgstr "exporter ou importer vos données de sauvegarde"
+
+#: ../../script/engine.js:221
+msgid "or migrating computers"
+msgstr "pour sauver votre partie ou changer d'ordinateur"
+
+#: ../../script/engine.js:224
+msgid "export"
+msgstr "exporter"
+
+#: ../../script/engine.js:228
+msgid "import"
+msgstr "importer"
+
+#: ../../script/engine.js:232
+msgid "cancel"
+msgstr "annuler"
+
+#: ../../script/engine.js:238
+msgid "are you sure?"
+msgstr "êtes vous sur ?"
+
+#: ../../script/engine.js:239
+msgid "if the code is invalid, all data will be lost."
+msgstr "si le code est incorrect, toutes les données seront perdues."
+
+#: ../../script/engine.js:240
+msgid "this is irreversible."
+msgstr "Il n'y a pas de retour en arrière possible."
+
+#: ../../script/engine.js:243 ../../script/engine.js:304
+msgid "yes"
+msgstr "oui"
+
+#: ../../script/engine.js:248 ../../script/engine.js:309
+msgid "no"
+msgstr "non"
+
+#: ../../script/engine.js:264
+msgid "Export"
+msgstr "Exporter"
+
+#: ../../script/engine.js:267
+msgid "save this."
+msgstr "sauvegarder."
+
+#: ../../script/engine.js:271
+msgid "got it"
+msgstr "compris"
+
+#: ../../script/engine.js:281
+msgid "put the save code here."
+msgstr "copier le code ici."
+
+#: ../../script/engine.js:298
+msgid "Restart?"
+msgstr "Recommencer ?"
+
+#: ../../script/engine.js:301
+msgid "restart the game?"
+msgstr "recommencer la partie ?"
+
+#: ../../script/engine.js:332
+msgid "Share"
+msgstr "Partager"
+
+#: ../../script/engine.js:335
+msgid "bring your friends."
+msgstr "Invitez vos amis."
+
+#: ../../script/engine.js:338
+msgid "facebook"
+msgstr "facebook"
+
+#: ../../script/engine.js:345
+msgid "google+"
+msgstr "google+"
+
+#: ../../script/engine.js:352
+msgid "twitter"
+msgstr "twitter"
+
+#: ../../script/engine.js:359
+msgid "reddit"
+msgstr "reddit"
+
+#: ../../script/engine.js:366
+msgid "close"
+msgstr "fermer"
+
+#: ../../script/engine.js:400 ../../script/engine.js:404
+msgid "lights on."
+msgstr "lumières allumées."
+
+#: ../../script/engine.js:502
+msgid "{0} per {1}s"
+msgstr "{0} /{1}s"
+
+#: ../../script/outside.js:5
+msgid "Outside"
+msgstr "Dehors"
+
+#: ../../script/outside.js:13 ../../script/localization.js:8
+msgid "gatherer"
+msgstr "ramasseur"
+
+#: ../../script/outside.js:20 ../../script/localization.js:5
+msgid "hunter"
+msgstr "chasseur"
+
+#: ../../script/outside.js:28 ../../script/localization.js:5
+msgid "trapper"
+msgstr "trappeur"
+
+#: ../../script/outside.js:36 ../../script/localization.js:5
+msgid "tanner"
+msgstr "tanneur"
+
+#: ../../script/outside.js:44 ../../script/localization.js:6
+msgid "charcutier"
+msgstr "boucher"
+
+#: ../../script/outside.js:53 ../../script/localization.js:6
+msgid "iron miner"
+msgstr "mineur de fer"
+
+#: ../../script/outside.js:61 ../../script/localization.js:6
+msgid "coal miner"
+msgstr "mineur de charbon"
+
+#: ../../script/outside.js:69 ../../script/localization.js:6
+msgid "sulphur miner"
+msgstr "mineur de souffre"
+
+#: ../../script/outside.js:77 ../../script/localization.js:7
+msgid "steelworker"
+msgstr "sidérurgiste"
+
+#: ../../script/outside.js:86 ../../script/localization.js:6
+msgid "armourer"
+msgstr "armurier"
+
+#: ../../script/outside.js:100
+msgid "scraps of fur"
+msgstr "des morceaux de fourrure"
+
+#: ../../script/outside.js:105
+msgid "bits of meat"
+msgstr "des morceaux de viande"
+
+#: ../../script/outside.js:110
+msgid "strange scales"
+msgstr "des écailles étranges"
+
+#: ../../script/outside.js:115
+msgid "scattered teeth"
+msgstr "des dents"
+
+#: ../../script/outside.js:120
+msgid "tattered cloth"
+msgstr "un tas de chiffons"
+
+#: ../../script/outside.js:125
+msgid "a crudely made charm"
+msgstr "un charme rudimentaire"
+
+#: ../../script/outside.js:141 ../../script/outside.js:529
+msgid "A Silent Forest"
+msgstr "Une forêt silencieuse"
+
+#: ../../script/outside.js:166
+msgid "gather wood"
+msgstr "ramasser du bois"
+
+#: ../../script/outside.js:183
+msgid "a stranger arrives in the night"
+msgstr "un étranger arrive durant la nuit"
+
+#: ../../script/outside.js:185
+msgid "a weathered family takes up in one of the huts."
+msgstr "une famille épuisée s'intalle dans une cabane."
+
+#: ../../script/outside.js:187
+msgid "a small group arrives, all dust and bones."
+msgstr "un petit groupe arrive, sale et affamé."
+
+#: ../../script/outside.js:189
+msgid "a convoy lurches in, equal parts worry and hope."
+msgstr "un convoi arrive, plein de crainte et d'éspoir."
+
+#: ../../script/outside.js:191
+msgid "the town's booming. word does get around."
+msgstr "la ville s'agrandie, le mot se passe."
+
+#: ../../script/outside.js:510
+msgid "check traps"
+msgstr "vérifier les pièges"
+
+#: ../../script/outside.js:531
+msgid "A Lonely Hut"
+msgstr "Une cabane solitaire"
+
+#: ../../script/outside.js:533
+msgid "A Tiny Village"
+msgstr "Un petit village"
+
+#: ../../script/outside.js:535
+msgid "A Modest Village"
+msgstr "Un village"
+
+#: ../../script/outside.js:537
+msgid "A Large Village"
+msgstr "Un grand village"
+
+#: ../../script/outside.js:539
+msgid "A Raucous Village"
+msgstr "Un village bruyant"
+
+#: ../../script/outside.js:551
+msgid "the sky is grey and the wind blows relentlessly"
+msgstr "le ciel est gris et le vents souffle implacablement"
+
+#: ../../script/outside.js:561
+msgid "dry brush and dead branches litter the forest floor"
+msgstr "des buissons secs et des branches mortes recouvrent le sol de la forêt"
+
+#: ../../script/outside.js:587
+msgid "the traps contain "
+msgstr "les pièges contiennent "
+
+#: ../../script/outside.js:592
+msgid " and "
+msgstr " et "
+
+#: ../../script/ship.js:11
+msgid "Ship"
+msgstr "Vaisseau"
+
+#: ../../script/ship.js:27
+msgid "An Old Starship"
+msgstr "Un ancien vaisseau spatial"
+
+#: ../../script/ship.js:38
+msgid "hull:"
+msgstr "bouclier:"
+
+#: ../../script/ship.js:44
+msgid "engine:"
+msgstr "moteur:"
+
+#: ../../script/ship.js:51
+msgid "reinforce hull"
+msgstr "renforcer les bouclier"
+
+#: ../../script/ship.js:60
+msgid "upgrade engine"
+msgstr "améliorer le moteur"
+
+#: ../../script/ship.js:69 ../../script/ship.js:142
+msgid "lift off"
+msgstr "décoller"
+
+#: ../../script/ship.js:91
+msgid ""
+"somewhere above the debris cloud, the wanderer fleet hovers. been on this "
+"rock too long."
+msgstr ""
+"quelque part au dessus du nuage de débris s'en va le vaisseau du vagabond. "
+"Assez de temps passé sur ce morceau de caillou."
+
+#: ../../script/ship.js:106 ../../script/ship.js:119
+msgid "not enough alien alloy"
+msgstr "pas assez de carburant extra-terrestre"
+
+#: ../../script/ship.js:134
+msgid "Ready to Leave?"
+msgstr "Prêt à partir ?"
+
+#: ../../script/ship.js:138
+msgid "time to get out of this place. won't be coming back."
+msgstr ""
+"c'est l'heure de quitter cet endroit. il n'y aura pas de retour en arrière."
+
+#: ../../script/ship.js:150
+msgid "linger"
+msgstr "s'attarder"
 
 #: ../../script/room.js:18
 msgid "trap"
@@ -369,7 +816,7 @@ msgstr "il n'y a plus de bois"
 #: ../../script/room.js:674
 msgid "the light from the fire spills from the windows, out into the dark"
 msgstr ""
-"la lumière du feu  se repend  à travers la a fenêtre, dehors dans la nuit"
+"la lumière du feu  se repend  à travers la fenêtre, dehors dans la nuit"
 
 #: ../../script/room.js:687
 msgid "builder stokes the fire"
@@ -405,288 +852,53 @@ msgstr "insuffisant"
 msgid "builder just shivers"
 msgstr "L'ouvrière à trop froid"
 
-#: ../../script/events.js:126
-msgid "eat meat"
-msgstr "manger"
+#: ../../script/path.js:29 ../../script/path.js:295
+msgid "A Dusty Path"
+msgstr "Un chemin poussiéreux"
 
-#: ../../script/events.js:146
-msgid "use meds"
-msgstr "se soigner"
-
-#: ../../script/events.js:474 ../../script/events/room.js:139
-#: ../../script/events/room.js:159 ../../script/events/room.js:179
-#: ../../script/events/setpieces.js:25 ../../script/events/setpieces.js:47
-#: ../../script/events/setpieces.js:64 ../../script/events/setpieces.js:82
-#: ../../script/events/setpieces.js:105 ../../script/events/setpieces.js:517
-#: ../../script/events/setpieces.js:1205 ../../script/events/setpieces.js:2838
-#: ../../script/events/setpieces.js:2872 ../../script/events/setpieces.js:2894
-#: ../../script/events/setpieces.js:2930 ../../script/events/setpieces.js:2982
-#: ../../script/events/setpieces.js:3010 ../../script/events/setpieces.js:3055
-#: ../../script/events/setpieces.js:3177 ../../script/events/setpieces.js:3199
-#: ../../script/events/setpieces.js:3314 ../../script/events/setpieces.js:3338
-#: ../../script/events/setpieces.js:3371 ../../script/events/setpieces.js:3389
-#: ../../script/events/setpieces.js:3412 ../../script/events/setpieces.js:3440
-#: ../../script/events/global.js:41 ../../script/events/global.js:58
-msgid "leave"
+#: ../../script/path.js:43
+msgid "embark"
 msgstr "partir"
 
-#: ../../script/engine.js:20
-msgid "boxer"
-msgstr "boxeur"
+#: ../../script/path.js:60
+msgid "the compass points "
+msgstr "la boussole montre :"
 
-#: ../../script/engine.js:21
-msgid "punches do more damage"
-msgstr "les points font plus de dégats"
+#: ../../script/path.js:132
+msgid "none"
+msgstr "aucune"
 
-#: ../../script/engine.js:22
-msgid "learned to throw punches with purpose"
-msgstr "appris à donner des coups de points avec un objectif"
+#: ../../script/path.js:134 ../../script/localization.js:4
+msgid "steel"
+msgstr "acier"
 
-#: ../../script/engine.js:25
-msgid "martial artist"
-msgstr "maître d'un art martial"
+#: ../../script/path.js:136 ../../script/localization.js:4
+msgid "iron"
+msgstr "fer"
 
-#: ../../script/engine.js:26
-msgid "punches do even more damage."
-msgstr "les coups de points font plus de dégats"
+#: ../../script/path.js:138 ../../script/localization.js:4
+msgid "leather"
+msgstr "cuir"
 
-#: ../../script/engine.js:27
-msgid "learned to fight quite effectively without weapons"
-msgstr "apprendre à se battre de façon efficace sans arme"
+#: ../../script/path.js:142
+msgid "armour"
+msgstr "armure"
 
-#: ../../script/engine.js:30
-msgid "unarmed master"
-msgstr "expert en combat à mains nues"
+#: ../../script/path.js:153
+msgid "water"
+msgstr "eau"
 
-#: ../../script/engine.js:31
-msgid "punch twice as fast, and with even more force"
-msgstr "frapper deux fois plus vite, et avec plus de force"
+#: ../../script/path.js:229 ../../script/world.js:284
+msgid "free {0}/{1}"
+msgstr "libre {0}/{1}"
 
-#: ../../script/engine.js:32
-msgid "learned to strike faster without weapons"
-msgstr "appris à attaquer plus vite sans arme"
+#: ../../script/path.js:253
+msgid "weight"
+msgstr "poids"
 
-#: ../../script/engine.js:35
-msgid "barbarian"
-msgstr "barbare"
-
-#: ../../script/engine.js:36
-msgid "melee weapons deal more damage"
-msgstr "les armes de mêlés font plus de dégâts"
-
-#: ../../script/engine.js:37
-msgid "learned to swing weapons with force"
-msgstr "vous savez manier vos armes avec plus de force"
-
-# contexte ?
-#: ../../script/engine.js:40
-msgid "slow metabolism"
-msgstr "métabolisme lent"
-
-#: ../../script/engine.js:41
-msgid "go twice as far without eating"
-msgstr "aller deux fois plus loin sans manger"
-
-#: ../../script/engine.js:42
-msgid "learned how to ignore the hunger"
-msgstr "vous savez ignorer la faim"
-
-#: ../../script/engine.js:45
-msgid "desert rat"
-msgstr "rat du désert"
-
-#: ../../script/engine.js:46
-msgid "go twice as far without drinking"
-msgstr "aller deux fois plus loin sans boire"
-
-#: ../../script/engine.js:47
-msgid "learned to love the dry air"
-msgstr "vous savez apprécier l'air sec"
-
-#: ../../script/engine.js:50
-msgid "evasive"
-msgstr "esquive"
-
-#: ../../script/engine.js:51
-msgid "dodge attacks more effectively"
-msgstr "esquiver les attaques de façon plus efficace"
-
-#: ../../script/engine.js:52
-msgid "learned to be where they're not"
-msgstr "vous savez être là où ils ne sont pas"
-
-#: ../../script/engine.js:55
-msgid "precise"
-msgstr "précision"
-
-# description pour la précision ...
-#: ../../script/engine.js:56
-msgid "land blows more often"
-msgstr "mieux reconnaître les mouvements"
-
-#: ../../script/engine.js:57
-msgid "learned to predict their movement"
-msgstr "vous savez prédire leurs mouvement"
-
-#: ../../script/engine.js:60
-msgid "scout"
-msgstr "éclaireur"
-
-#: ../../script/engine.js:61
-msgid "see farther"
-msgstr "voir plus loin"
-
-#: ../../script/engine.js:62
-msgid "learned to look ahead"
-msgstr "vous savez regarder plus loin"
-
-#: ../../script/engine.js:65
-msgid "stealthy"
-msgstr "furtif"
-
-#: ../../script/engine.js:66
-msgid "better avoid conflict in the wild"
-msgstr "mieux éviter les conflits dans un environnement hostile"
-
-#: ../../script/engine.js:67
-msgid "learned how not to be seen"
-msgstr "vous savez comment ne pas être vu"
-
-#: ../../script/engine.js:70
-msgid "gastronome"
-msgstr "gastronome"
-
-#: ../../script/engine.js:71
-msgid "restore more health when eating"
-msgstr "récupérer plus de vie en mangeant"
-
-#: ../../script/engine.js:72
-msgid "learned to make the most of food"
-msgstr "vous savez tirer partie un maximum de la nourriture"
-
-#: ../../script/engine.js:114 ../../script/engine.js:408
-msgid "lights off."
-msgstr "lumières éteintes."
-
-#: ../../script/engine.js:120 ../../script/space.js:439
-msgid "restart."
-msgstr "recommencer."
-
-#: ../../script/engine.js:126
-msgid "share."
-msgstr "partager."
-
-#: ../../script/engine.js:132
-msgid "save."
-msgstr "sauvegarder."
-
-#: ../../script/engine.js:138
-msgid "app store."
-msgstr "app store"
-
-#: ../../script/engine.js:216
-msgid "Export / Import"
-msgstr "Exporter/Importer"
-
-#: ../../script/engine.js:219
-msgid "export or import save data, for backing up"
-msgstr "exporter ou importer vos données de sauvegarde"
-
-#: ../../script/engine.js:220
-msgid "or migrating computers"
-msgstr "pour sauver votre partie ou changer d'ordinateur"
-
-#: ../../script/engine.js:223
-msgid "export"
-msgstr "exporter"
-
-#: ../../script/engine.js:227
-msgid "import"
-msgstr "importer"
-
-#: ../../script/engine.js:231
-msgid "cancel"
-msgstr "annuler"
-
-#: ../../script/engine.js:237
-msgid "are you sure?"
-msgstr "êtes vous sur ?"
-
-#: ../../script/engine.js:238
-msgid "if the code is invalid, all data will be lost."
-msgstr "si le code est incorrect, toutes les données seront perdues."
-
-#: ../../script/engine.js:239
-msgid "this is irreversible."
-msgstr "Il n'y a pas de retour en arrière possible."
-
-#: ../../script/engine.js:242 ../../script/engine.js:303
-msgid "yes"
-msgstr "oui"
-
-#: ../../script/engine.js:247 ../../script/engine.js:308
-msgid "no"
-msgstr "non"
-
-#: ../../script/engine.js:263
-msgid "Export"
-msgstr "Exporter"
-
-#: ../../script/engine.js:266
-msgid "save this."
-msgstr "sauvegarder."
-
-#: ../../script/engine.js:270
-msgid "got it"
-msgstr "compris"
-
-#: ../../script/engine.js:280
-msgid "put the save code here."
-msgstr "copier le code ici."
-
-#: ../../script/engine.js:297
-msgid "Restart?"
-msgstr "Recommencer ?"
-
-#: ../../script/engine.js:300
-msgid "restart the game?"
-msgstr "recommencer la partie ?"
-
-#: ../../script/engine.js:331
-msgid "Share"
-msgstr "Partager"
-
-#: ../../script/engine.js:334
-msgid "bring your friends."
-msgstr "Invitez vos amis."
-
-#: ../../script/engine.js:337
-msgid "facebook"
-msgstr "facebook"
-
-#: ../../script/engine.js:344
-msgid "google+"
-msgstr "google+"
-
-#: ../../script/engine.js:351
-msgid "twitter"
-msgstr "twitter"
-
-#: ../../script/engine.js:358
-msgid "reddit"
-msgstr "reddit"
-
-#: ../../script/engine.js:365
-msgid "close"
-msgstr "fermer"
-
-#: ../../script/engine.js:399 ../../script/engine.js:403
-msgid "lights on."
-msgstr "lumières allumées."
-
-#: ../../script/engine.js:501
-msgid "{0} per {1}s"
-msgstr "{0} /{1}s"
+#: ../../script/path.js:255
+msgid "available"
+msgstr "disponible"
 
 #: ../../script/localization.js:3
 msgid "saved."
@@ -724,18 +936,6 @@ msgstr "balles"
 msgid "charm"
 msgstr "charme"
 
-#: ../../script/localization.js:4 ../../script/path.js:138
-msgid "leather"
-msgstr "cuir"
-
-#: ../../script/localization.js:4 ../../script/path.js:136
-msgid "iron"
-msgstr "fer"
-
-#: ../../script/localization.js:4 ../../script/path.js:134
-msgid "steel"
-msgstr "acier"
-
 #: ../../script/localization.js:4
 msgid "coal"
 msgstr "charbon"
@@ -747,42 +947,6 @@ msgstr "chargeur energie"
 #: ../../script/localization.js:5
 msgid "medicine"
 msgstr "médicament"
-
-#: ../../script/localization.js:5 ../../script/outside.js:20
-msgid "hunter"
-msgstr "chasseur"
-
-#: ../../script/localization.js:5 ../../script/outside.js:28
-msgid "trapper"
-msgstr "trappeur"
-
-#: ../../script/localization.js:5 ../../script/outside.js:36
-msgid "tanner"
-msgstr "tanneur"
-
-#: ../../script/localization.js:6 ../../script/outside.js:44
-msgid "charcutier"
-msgstr "boucher"
-
-#: ../../script/localization.js:6 ../../script/outside.js:53
-msgid "iron miner"
-msgstr "mineur de fer"
-
-#: ../../script/localization.js:6 ../../script/outside.js:61
-msgid "coal miner"
-msgstr "mineur de charbon"
-
-#: ../../script/localization.js:6 ../../script/outside.js:69
-msgid "sulphur miner"
-msgstr "mineur de souffre"
-
-#: ../../script/localization.js:6 ../../script/outside.js:86
-msgid "armourer"
-msgstr "armurier"
-
-#: ../../script/localization.js:7 ../../script/outside.js:77
-msgid "steelworker"
-msgstr "sidérurgiste"
 
 #: ../../script/localization.js:7
 msgid "bait"
@@ -804,9 +968,9 @@ msgstr "boussole"
 msgid "laser rifle"
 msgstr "fusil lazer"
 
-#: ../../script/localization.js:8 ../../script/outside.js:13
-msgid "gatherer"
-msgstr "ramasseur"
+#: ../../script/localization.js:7
+msgid "bayonet"
+msgstr "baïonnette"
 
 #: ../../script/localization.js:8
 msgid "cloth"
@@ -851,6 +1015,10 @@ msgstr "dent insuffisante"
 #: ../../script/localization.js:10
 msgid "not enough leather"
 msgstr "cuir insuffisant"
+
+#: ../../script/localization.js:10
+msgid "not enough cloth"
+msgstr "pas assez de chiffon"
 
 #: ../../script/localization.js:11
 msgid "the compass points east."
@@ -920,94 +1088,66 @@ msgstr "prendre:"
 msgid "forest"
 msgstr "foret"
 
-#: ../../script/path.js:29 ../../script/path.js:295
-msgid "A Dusty Path"
-msgstr "Un chemin poussiéreux"
-
-#: ../../script/path.js:43
-msgid "embark"
-msgstr "partir"
-
-#: ../../script/path.js:60
-msgid "the compass points "
-msgstr "la boussole montre :"
-
-#: ../../script/path.js:132
-msgid "none"
-msgstr "aucune"
-
-#: ../../script/path.js:142
-msgid "armour"
-msgstr "armure"
-
-#: ../../script/path.js:153
-msgid "water"
-msgstr "eau"
-
-#: ../../script/path.js:229 ../../script/world.js:284
-msgid "free {0}/{1}"
-msgstr "libre {0}/{1}"
-
-#: ../../script/path.js:253
-msgid "weight"
-msgstr "poids"
-
-#: ../../script/path.js:255
-msgid "available"
-msgstr "disponible"
-
-#: ../../script/ship.js:11
-msgid "Ship"
-msgstr "Vaisseau"
-
-#: ../../script/ship.js:27
-msgid "An Old Starship"
-msgstr "Un ancien vaisseau spatial"
-
-#: ../../script/ship.js:38
-msgid "hull:"
+#: ../../script/space.js:42
+msgid "hull: "
 msgstr "bouclier:"
 
-#: ../../script/ship.js:44
-msgid "engine:"
-msgstr "moteur:"
+#: ../../script/space.js:76
+msgid "Troposphere"
+msgstr "Troposphère"
 
-#: ../../script/ship.js:51
-msgid "reinforce hull"
-msgstr "renforcer les bouclier"
+#: ../../script/space.js:78
+msgid "Stratosphere"
+msgstr "Stratosphère"
 
-#: ../../script/ship.js:60
-msgid "upgrade engine"
-msgstr "améliorer le moteur"
+#: ../../script/space.js:80
+msgid "Mesosphere"
+msgstr "Mésosphère"
 
-#: ../../script/ship.js:69 ../../script/ship.js:142
-msgid "lift off"
-msgstr "décoller"
+#: ../../script/space.js:82
+msgid "Thermosphere"
+msgstr "Thermosphère"
 
-#: ../../script/ship.js:91
-msgid ""
-"somewhere above the debris cloud, the wanderer fleet hovers. been on this "
-"rock too long."
-msgstr ""
-"quelque part au dessus du nuage de débris s'en va le vaisseau du vagabond. "
-"Assez de temps passé sur ce morceau de caillou."
+#: ../../script/space.js:84
+msgid "Exosphere"
+msgstr "Exosphère"
 
-#: ../../script/ship.js:106 ../../script/ship.js:119
-msgid "not enough alien alloy"
-msgstr "pas assez de carburant extra-terrestre"
+#: ../../script/space.js:86
+msgid "Space"
+msgstr "L'Éspace"
 
-#: ../../script/ship.js:134
-msgid "Ready to Leave?"
-msgstr "Prêt à partir ?"
+#: ../../script/space.js:421
+msgid "score for this game: {0}"
+msgstr "score de la partie: {0}"
 
-#: ../../script/ship.js:138
-msgid "time to get out of this place. won't be coming back."
-msgstr ""
-"c'est l'heure de quitter cet endroit. il n'y aura pas de retour en arrière."
+#: ../../script/space.js:428
+msgid "total score: {0}"
+msgstr "score total: {0}"
 
-#: ../../script/ship.js:150
-msgid "linger"
-msgstr "s'attarder"
+#: ../../script/events.js:126
+msgid "eat meat"
+msgstr "manger"
+
+#: ../../script/events.js:146
+msgid "use meds"
+msgstr "se soigner"
+
+#: ../../script/events.js:474 ../../script/events/room.js:139
+#: ../../script/events/room.js:159 ../../script/events/room.js:179
+#: ../../script/events/setpieces.js:25 ../../script/events/setpieces.js:47
+#: ../../script/events/setpieces.js:64 ../../script/events/setpieces.js:82
+#: ../../script/events/setpieces.js:105 ../../script/events/setpieces.js:517
+#: ../../script/events/setpieces.js:1205 ../../script/events/setpieces.js:2838
+#: ../../script/events/setpieces.js:2872 ../../script/events/setpieces.js:2894
+#: ../../script/events/setpieces.js:2930 ../../script/events/setpieces.js:2982
+#: ../../script/events/setpieces.js:3010 ../../script/events/setpieces.js:3055
+#: ../../script/events/setpieces.js:3177 ../../script/events/setpieces.js:3199
+#: ../../script/events/setpieces.js:3314 ../../script/events/setpieces.js:3338
+#: ../../script/events/setpieces.js:3371 ../../script/events/setpieces.js:3389
+#: ../../script/events/setpieces.js:3412 ../../script/events/setpieces.js:3440
+#: ../../script/events/global.js:41 ../../script/events/global.js:58
+msgid "leave"
+msgstr "partir"
 
 #: ../../script/world.js:46
 msgid "punch"
@@ -1196,137 +1336,319 @@ msgstr "plein d'eau fait."
 msgid "A Barren World"
 msgstr "Un monde stérile"
 
-#: ../../script/outside.js:5
-msgid "Outside"
-msgstr "Dehors"
+#: ../../script/events/outside.js:6
+msgid "A Ruined Trap"
+msgstr "Un piège détruit"
 
-#: ../../script/outside.js:100
-msgid "scraps of fur"
-msgstr "des morceaux de fourrure"
+#: ../../script/events/outside.js:13
+msgid "some of the traps have been torn apart."
+msgstr "des pièges ont été mis en pièces"
 
-#: ../../script/outside.js:105
-msgid "bits of meat"
-msgstr "des morceaux de viande"
+#: ../../script/events/outside.js:14
+msgid "large prints lead away, into the forest."
+msgstr "de larges empruntes vont vers la forêt."
 
-#: ../../script/outside.js:110
-msgid "strange scales"
-msgstr "des écailles étranges"
+#: ../../script/events/outside.js:22
+msgid "some traps have been destroyed"
+msgstr "des pièges ont été détruits"
 
-#: ../../script/outside.js:115
-msgid "scattered teeth"
-msgstr "des dents"
+#: ../../script/events/outside.js:25
+msgid "track them"
+msgstr "les suivre"
 
-#: ../../script/outside.js:120
-msgid "tattered cloth"
-msgstr "un tas de chiffons"
+#: ../../script/events/outside.js:29 ../../script/events/room.js:69
+#: ../../script/events/room.js:119
+msgid "ignore them"
+msgstr "les ignorer"
 
-#: ../../script/outside.js:125
-msgid "a crudely made charm"
-msgstr "un charme rudimentaire"
+#: ../../script/events/outside.js:36
+msgid "the tracks disappear after just a few minutes."
+msgstr "les empruntes disparaissent après quelques minutes."
 
-#: ../../script/outside.js:141 ../../script/outside.js:529
-msgid "A Silent Forest"
-msgstr "Une forêt silencieuse"
+#: ../../script/events/outside.js:37
+msgid "the forest is silent."
+msgstr "la foret est silencieuse"
 
-#: ../../script/outside.js:166
-msgid "gather wood"
-msgstr "ramasser du bois"
+#: ../../script/events/outside.js:41 ../../script/events/outside.js:58
+#: ../../script/events/outside.js:98 ../../script/events/outside.js:115
+#: ../../script/events/outside.js:158 ../../script/events/outside.js:175
+#: ../../script/events/outside.js:206 ../../script/events/outside.js:236
+msgid "go home"
+msgstr "rentrer"
 
-#: ../../script/outside.js:183
-msgid "a stranger arrives in the night"
-msgstr "un étranger arrive durant la nuit"
+#: ../../script/events/outside.js:48
+msgid "not far from the village lies a large beast, its fur matted with blood."
+msgstr ""
+"pas loin du village gît une bête agonisante, sa fourrure pleine de sang."
 
-#: ../../script/outside.js:185
-msgid "a weathered family takes up in one of the huts."
-msgstr "une famille épuisée s'intalle dans une cabane."
+#: ../../script/events/outside.js:49
+msgid "it puts up little resistance before the knife."
+msgstr "elle résiste faiblement face au couteau."
 
-#: ../../script/outside.js:187
-msgid "a small group arrives, all dust and bones."
-msgstr "un petit groupe arrive, sale et affamé."
+#: ../../script/events/outside.js:67
+msgid "Sickness"
+msgstr "Maladie"
 
-#: ../../script/outside.js:189
-msgid "a convoy lurches in, equal parts worry and hope."
-msgstr "un convoi arrive, plein de crainte et d'éspoir."
+#: ../../script/events/outside.js:77
+msgid "a sickness is spreading through the village."
+msgstr "le village est contaminé par une maladie"
 
-#: ../../script/outside.js:191
-msgid "the town's booming. word does get around."
-msgstr "la ville s'agrandie, le mot se passe."
+#: ../../script/events/outside.js:78 ../../script/events/outside.js:132
+msgid "medicine is needed immediately."
+msgstr "des médicaments sont nécessaires immédiatement."
 
-#: ../../script/outside.js:510
-msgid "check traps"
-msgstr "vérifier les pièges"
+#: ../../script/events/outside.js:82
+msgid "1 medicine"
+msgstr "1 médicament"
 
-#: ../../script/outside.js:531
-msgid "A Lonely Hut"
-msgstr "Une cabane solitaire"
+#: ../../script/events/outside.js:87
+msgid "ignore it"
+msgstr "l'ignorer"
 
-#: ../../script/outside.js:533
-msgid "A Tiny Village"
-msgstr "Un petit village"
+#: ../../script/events/outside.js:94
+msgid "the sickness is cured in time."
+msgstr "la maladie est soigné à temps."
 
-#: ../../script/outside.js:535
-msgid "A Modest Village"
-msgstr "Un village"
+#: ../../script/events/outside.js:105
+msgid "the sickness spreads through the village."
+msgstr "la maladie se repend dans le village."
 
-#: ../../script/outside.js:537
-msgid "A Large Village"
-msgstr "Un grand village"
+#: ../../script/events/outside.js:106
+msgid "the days are spent with burials."
+msgstr "les enterrements s’enchaînent durant des jours."
 
-#: ../../script/outside.js:539
-msgid "A Raucous Village"
-msgstr "Un village bruyant"
+#: ../../script/events/outside.js:107 ../../script/events/outside.js:166
+msgid "the nights are rent with screams."
+msgstr "les nuits sont remplies de cris."
 
-#: ../../script/outside.js:551
-msgid "the sky is grey and the wind blows relentlessly"
-msgstr "le ciel est gris et le vents souffle implacablement"
+#: ../../script/events/outside.js:124
+msgid "Plague"
+msgstr "La peste"
 
-#: ../../script/outside.js:561
-msgid "dry brush and dead branches litter the forest floor"
-msgstr "des buissons secs et des branches mortes recouvrent le sol de la forêt"
+#: ../../script/events/outside.js:131
+msgid "a terrible plague is fast spreading through the village."
+msgstr "une terrible peste se propage rapidement dans le village."
 
-#: ../../script/outside.js:587
-msgid "the traps contain "
-msgstr "les pièges contiennent "
+#: ../../script/events/outside.js:136
+msgid "5 medicine"
+msgstr "5 médicaments"
 
-#: ../../script/outside.js:592
-msgid " and "
-msgstr " et "
+#: ../../script/events/outside.js:141
+msgid "do nothing"
+msgstr "ne rien faire"
 
-#: ../../script/space.js:42
-msgid "hull: "
-msgstr "bouclier:"
+#: ../../script/events/outside.js:148
+msgid "the plague is kept from spreading."
+msgstr "La peste ne se propage plus."
 
-#: ../../script/space.js:76
-msgid "Troposphere"
-msgstr "Troposphère"
+#: ../../script/events/outside.js:149
+msgid "only a few die."
+msgstr "seuls quelques uns meurent."
 
-#: ../../script/space.js:78
-msgid "Stratosphere"
-msgstr "Stratosphère"
+#: ../../script/events/outside.js:150
+msgid "the rest bury them."
+msgstr "ils sont enterrés par les survivants."
 
-#: ../../script/space.js:80
-msgid "Mesosphere"
-msgstr "Mésosphère"
+#: ../../script/events/outside.js:165
+msgid "the plague rips through the village."
+msgstr "la peste décime tout le village"
 
-#: ../../script/space.js:82
-msgid "Thermosphere"
-msgstr "Thermosphère"
+#: ../../script/events/outside.js:167
+msgid "the only hope is a quick death."
+msgstr "le seul espoir est une mort rapide."
 
-#: ../../script/space.js:84
-msgid "Exosphere"
-msgstr "Exosphère"
+#: ../../script/events/outside.js:184
+msgid "A Beast Attack"
+msgstr "Une attaque de bête"
 
-#: ../../script/space.js:86
-msgid "Space"
-msgstr "L'Éspace"
+#: ../../script/events/outside.js:191
+msgid "a pack of snarling beasts pours out of the trees."
+msgstr "une meute de bêtes sort de la foret."
 
-#: ../../script/space.js:421
-msgid "score for this game: {0}"
-msgstr "score de la partie: {0}"
+#: ../../script/events/outside.js:192
+msgid "the fight is short and bloody, but the beasts are repelled."
+msgstr "le combat est bref et sanglant, mais les bêtes sont repoussées."
 
-#: ../../script/space.js:428
-msgid "total score: {0}"
-msgstr "score total: {0}"
+#: ../../script/events/outside.js:193
+msgid "the villagers retreat to mourn the dead."
+msgstr "les villageois rentrent et vont pleurer leurs morts"
+
+#: ../../script/events/outside.js:215
+msgid "A Military Raid"
+msgstr "Un raid militaire"
+
+#: ../../script/events/outside.js:222
+msgid "a gunshot rings through the trees."
+msgstr "une détonation retenti dans la forêt."
+
+#: ../../script/events/outside.js:223
+msgid "well armed men charge out of the forest, firing into the crowd."
+msgstr ""
+"des hommes armés surgissent hors de la foret et tirent sur tout ce qui bouge."
+
+#: ../../script/events/outside.js:224
+msgid "after a skirmish they are driven away, but not without losses."
+msgstr "ils sont repoussés après une escarmouche, mais pas sans pertes."
+
+#: ../../script/events/encounters.js:7
+msgid "A Snarling Beast"
+msgstr "Une bête qui grogne"
+
+#: ../../script/events/encounters.js:15
+msgid "snarling beast"
+msgstr "bête qui grogne"
+
+#: ../../script/events/encounters.js:16
+msgid "the snarling beast is dead"
+msgstr "la bête grognante est morte."
+
+#: ../../script/events/encounters.js:39
+msgid "a snarling beast leaps out of the underbrush"
+msgstr "une bête grondante surgit des buissons"
+
+#: ../../script/events/encounters.js:44
+msgid "A Gaunt Man"
+msgstr "Un homme décharné"
+
+#: ../../script/events/encounters.js:52
+msgid "gaunt man"
+msgstr "homme décharné"
+
+#: ../../script/events/encounters.js:53
+msgid "the gaunt man is dead"
+msgstr "l'homme décharné est mort."
+
+#: ../../script/events/encounters.js:76
+msgid "a gaunt man approaches, a crazed look in his eye"
+msgstr "un homme décharné approche, un regard dément dans ses yeux"
+
+#: ../../script/events/encounters.js:81
+msgid "A Strange Bird"
+msgstr "Un oiseau étrange"
+
+#: ../../script/events/encounters.js:89
+msgid "strange bird"
+msgstr "oiseau étrange"
+
+#: ../../script/events/encounters.js:90
+msgid "the strange bird is dead"
+msgstr "l'étrange oiseau est mort."
+
+#: ../../script/events/encounters.js:113
+msgid "a strange looking bird speeds across the plains"
+msgstr "un oiseau étrange vole rapidement  au dessus des plaines"
+
+#: ../../script/events/encounters.js:119
+msgid "A Shivering Man"
+msgstr "Un homme tremblant"
+
+#: ../../script/events/encounters.js:127
+msgid "shivering man"
+msgstr "homme tremblant"
+
+#: ../../script/events/encounters.js:128
+msgid "the shivering man is dead"
+msgstr "l'homme tremblant est mort."
+
+#: ../../script/events/encounters.js:156
+msgid "a shivering man approaches and attacks with surprising strength"
+msgstr "un homme tremblant s'approche et attaque avec une force surprenante"
+
+#: ../../script/events/encounters.js:161
+msgid "A Man-Eater"
+msgstr "Un mangeur d'homme"
+
+#: ../../script/events/encounters.js:169
+msgid "man-eater"
+msgstr "mangeur d'homme"
+
+#: ../../script/events/encounters.js:170
+msgid "the man-eater is dead"
+msgstr "Le mangeur d'homme est mort"
+
+#: ../../script/events/encounters.js:193
+msgid "a large creature attacks, claws freshly bloodied"
+msgstr "Une grande créature attaque, les griffes dégoulinante de sang"
+
+#: ../../script/events/encounters.js:198
+msgid "A Scavenger"
+msgstr "Un pilleur"
+
+#: ../../script/events/encounters.js:206
+msgid "scavenger"
+msgstr "pilleur"
+
+#: ../../script/events/encounters.js:207
+msgid "the scavenger is dead"
+msgstr "le voleur est mort."
+
+#: ../../script/events/encounters.js:235
+msgid "a scavenger draws close, hoping for an easy score"
+msgstr "Un pilleur s'approche, espérant un cible facile"
+
+#: ../../script/events/encounters.js:240
+msgid "A Huge Lizard"
+msgstr "Un énorme lézard"
+
+#: ../../script/events/encounters.js:248
+msgid "lizard"
+msgstr "lézard"
+
+#: ../../script/events/encounters.js:249
+msgid "the lizard is dead"
+msgstr "le lézard est mort"
+
+#: ../../script/events/encounters.js:272
+msgid "the grass thrashes wildly as a huge lizard pushes through"
+msgstr "l'herbe bouge bizarrement et un énorme lézard surgit"
+
+#: ../../script/events/encounters.js:278
+msgid "A Feral Terror"
+msgstr "Une terreur sauvage"
+
+#: ../../script/events/encounters.js:286
+msgid "feral terror"
+msgstr "terreur sauvage"
+
+#: ../../script/events/encounters.js:287
+msgid "the feral terror is dead"
+msgstr "la terreur sauvage est morte"
+
+#: ../../script/events/encounters.js:310
+msgid "a beast, wilder than imagining, erupts out of the foliage"
+msgstr "une bête inimaginable surgit des feuillages"
+
+#: ../../script/events/encounters.js:315
+msgid "A Soldier"
+msgstr "Un soldat"
+
+#: ../../script/events/encounters.js:323
+msgid "soldier"
+msgstr "soldat"
+
+#: ../../script/events/encounters.js:324
+msgid "the soldier is dead"
+msgstr "le soldat est mort"
+
+#: ../../script/events/encounters.js:353
+msgid "a soldier opens fire from across the desert"
+msgstr "un soldat ouvre feu dans le desert"
+
+#: ../../script/events/encounters.js:358
+msgid "A Sniper"
+msgstr "Un sniper"
+
+#: ../../script/events/encounters.js:366
+msgid "sniper"
+msgstr "sniper"
+
+#: ../../script/events/encounters.js:367
+msgid "the sniper is dead"
+msgstr "le sniper est mort"
+
+#: ../../script/events/encounters.js:396
+msgid "a shot rings out, from somewhere in the long grass"
+msgstr "un tir retenti, quelque part dans les hautes herbes"
 
 #: ../../script/events/room.js:6
 msgid "The Nomad"
@@ -1403,11 +1725,6 @@ msgstr "de l'autre coté du mur s'échappent des bruits étranges "
 #: ../../script/events/setpieces.js:1599
 msgid "investigate"
 msgstr "enquêter"
-
-#: ../../script/events/room.js:69 ../../script/events/room.js:119
-#: ../../script/events/outside.js:29
-msgid "ignore them"
-msgstr "les ignorer"
 
 #: ../../script/events/room.js:76
 msgid "vague shapes move, just out of sight."
@@ -2264,7 +2581,7 @@ msgstr "quelques voies semblent venir de devant."
 
 #: ../../script/events/setpieces.js:1631
 msgid "they must be here for a reason."
-msgstr "ils ne doivent pas être là sans raison."
+msgstr "Il doit y avoir quelque chose d'intéressant."
 
 #: ../../script/events/setpieces.js:1647
 msgid "the sound of gunfire carries on the wind."
@@ -2768,315 +3085,6 @@ msgstr "tout le travail d'une ancienne génération est là."
 #: ../../script/events/setpieces.js:3432
 msgid "ripe for the picking."
 msgstr "qui attendent un nouveau propriétaire."
-
-#: ../../script/events/encounters.js:7
-msgid "A Snarling Beast"
-msgstr "Une bête qui grogne"
-
-#: ../../script/events/encounters.js:15
-msgid "snarling beast"
-msgstr "bête qui grogne"
-
-#: ../../script/events/encounters.js:16
-msgid "the snarling beast is dead"
-msgstr "la bête grognante est morte."
-
-#: ../../script/events/encounters.js:39
-msgid "a snarling beast leaps out of the underbrush"
-msgstr "une bête grondante surgit des buissons"
-
-#: ../../script/events/encounters.js:44
-msgid "A Gaunt Man"
-msgstr "Un homme décharné"
-
-#: ../../script/events/encounters.js:52
-msgid "gaunt man"
-msgstr "homme décharné"
-
-#: ../../script/events/encounters.js:53
-msgid "the gaunt man is dead"
-msgstr "l'homme décharné est mort."
-
-#: ../../script/events/encounters.js:76
-msgid "a gaunt man approaches, a crazed look in his eye"
-msgstr "un homme décharné approche, un regard dément dans ses yeux"
-
-#: ../../script/events/encounters.js:81
-msgid "A Strange Bird"
-msgstr "Un oiseau étrange"
-
-#: ../../script/events/encounters.js:89
-msgid "strange bird"
-msgstr "oiseau étrange"
-
-#: ../../script/events/encounters.js:90
-msgid "the strange bird is dead"
-msgstr "l'étrange oiseau est mort."
-
-#: ../../script/events/encounters.js:113
-msgid "a strange looking bird speeds across the plains"
-msgstr "un oiseau étrange vole rapidement  au dessus des plaines"
-
-#: ../../script/events/encounters.js:119
-msgid "A Shivering Man"
-msgstr "Un homme tremblant"
-
-#: ../../script/events/encounters.js:127
-msgid "shivering man"
-msgstr "homme tremblant"
-
-#: ../../script/events/encounters.js:128
-msgid "the shivering man is dead"
-msgstr "l'homme tremblant est mort."
-
-#: ../../script/events/encounters.js:156
-msgid "a shivering man approaches and attacks with surprising strength"
-msgstr "un homme tremblant s'approche et attaque avec une force surprenante"
-
-#: ../../script/events/encounters.js:161
-msgid "A Man-Eater"
-msgstr "Un mangeur d'homme"
-
-#: ../../script/events/encounters.js:169
-msgid "man-eater"
-msgstr "mangeur d'homme"
-
-#: ../../script/events/encounters.js:170
-msgid "the man-eater is dead"
-msgstr "Le mangeur d'homme est mort"
-
-#: ../../script/events/encounters.js:193
-msgid "a large creature attacks, claws freshly bloodied"
-msgstr "Une grande créature attaque, les griffes dégoulinante de sang"
-
-#: ../../script/events/encounters.js:198
-msgid "A Scavenger"
-msgstr "Un pilleur"
-
-#: ../../script/events/encounters.js:206
-msgid "scavenger"
-msgstr "pilleur"
-
-#: ../../script/events/encounters.js:207
-msgid "the scavenger is dead"
-msgstr "le voleur est mort."
-
-#: ../../script/events/encounters.js:235
-msgid "a scavenger draws close, hoping for an easy score"
-msgstr "Un pilleur s'approche, espérant un cible facile"
-
-#: ../../script/events/encounters.js:240
-msgid "A Huge Lizard"
-msgstr "Un énorme lézard"
-
-#: ../../script/events/encounters.js:248
-msgid "lizard"
-msgstr "lézard"
-
-#: ../../script/events/encounters.js:249
-msgid "the lizard is dead"
-msgstr "le lézard est mort"
-
-#: ../../script/events/encounters.js:272
-msgid "the grass thrashes wildly as a huge lizard pushes through"
-msgstr "l'herbe bouge bizarrement et un énorme lézard surgit"
-
-#: ../../script/events/encounters.js:278
-msgid "A Feral Terror"
-msgstr "Une terreur sauvage"
-
-#: ../../script/events/encounters.js:286
-msgid "feral terror"
-msgstr "terreur sauvage"
-
-#: ../../script/events/encounters.js:287
-msgid "the feral terror is dead"
-msgstr "la terreur sauvage est morte"
-
-#: ../../script/events/encounters.js:310
-msgid "a beast, wilder than imagining, erupts out of the foliage"
-msgstr "une bête inimaginable surgit des feuillages"
-
-#: ../../script/events/encounters.js:315
-msgid "A Soldier"
-msgstr "Un soldat"
-
-#: ../../script/events/encounters.js:323
-msgid "soldier"
-msgstr "soldat"
-
-#: ../../script/events/encounters.js:324
-msgid "the soldier is dead"
-msgstr "le soldat est mort"
-
-#: ../../script/events/encounters.js:353
-msgid "a soldier opens fire from across the desert"
-msgstr "un soldat ouvre feu dans le desert"
-
-#: ../../script/events/encounters.js:358
-msgid "A Sniper"
-msgstr "Un sniper"
-
-#: ../../script/events/encounters.js:366
-msgid "sniper"
-msgstr "sniper"
-
-#: ../../script/events/encounters.js:367
-msgid "the sniper is dead"
-msgstr "le sniper est mort"
-
-#: ../../script/events/encounters.js:396
-msgid "a shot rings out, from somewhere in the long grass"
-msgstr "un tir retenti, quelque part dans les hautes herbes"
-
-#: ../../script/events/outside.js:6
-msgid "A Ruined Trap"
-msgstr "Un piège détruit"
-
-#: ../../script/events/outside.js:13
-msgid "some of the traps have been torn apart."
-msgstr "des pièges ont été mis en pièces"
-
-#: ../../script/events/outside.js:14
-msgid "large prints lead away, into the forest."
-msgstr "de larges empruntes vont vers la forêt."
-
-#: ../../script/events/outside.js:22
-msgid "some traps have been destroyed"
-msgstr "des pièges ont été détruits"
-
-#: ../../script/events/outside.js:25
-msgid "track them"
-msgstr "les suivre"
-
-#: ../../script/events/outside.js:36
-msgid "the tracks disappear after just a few minutes."
-msgstr "les empruntes disparaissent après quelques minutes."
-
-#: ../../script/events/outside.js:37
-msgid "the forest is silent."
-msgstr "la foret est silencieuse"
-
-#: ../../script/events/outside.js:41 ../../script/events/outside.js:58
-#: ../../script/events/outside.js:98 ../../script/events/outside.js:115
-#: ../../script/events/outside.js:158 ../../script/events/outside.js:175
-#: ../../script/events/outside.js:206 ../../script/events/outside.js:236
-msgid "go home"
-msgstr "rentrer"
-
-#: ../../script/events/outside.js:48
-msgid "not far from the village lies a large beast, its fur matted with blood."
-msgstr ""
-"pas loin du village gît une bête agonisante, sa fourrure pleine de sang."
-
-#: ../../script/events/outside.js:49
-msgid "it puts up little resistance before the knife."
-msgstr "elle résiste faiblement face au couteau."
-
-#: ../../script/events/outside.js:67
-msgid "Sickness"
-msgstr "Maladie"
-
-#: ../../script/events/outside.js:77
-msgid "a sickness is spreading through the village."
-msgstr "le village est contaminé par une maladie"
-
-#: ../../script/events/outside.js:78 ../../script/events/outside.js:132
-msgid "medicine is needed immediately."
-msgstr "des médicaments sont nécessaires immédiatement."
-
-#: ../../script/events/outside.js:82
-msgid "1 medicine"
-msgstr "1 médicament"
-
-#: ../../script/events/outside.js:87
-msgid "ignore it"
-msgstr "l'ignorer"
-
-#: ../../script/events/outside.js:94
-msgid "the sickness is cured in time."
-msgstr "la maladie est soigné à temps."
-
-#: ../../script/events/outside.js:105
-msgid "the sickness spreads through the village."
-msgstr "la maladie se repend dans le village."
-
-#: ../../script/events/outside.js:106
-msgid "the days are spent with burials."
-msgstr "les enterrements s’enchaînent durant des jours."
-
-#: ../../script/events/outside.js:107 ../../script/events/outside.js:166
-msgid "the nights are rent with screams."
-msgstr "les nuits sont remplies de cris."
-
-#: ../../script/events/outside.js:124
-msgid "Plague"
-msgstr "La peste"
-
-#: ../../script/events/outside.js:131
-msgid "a terrible plague is fast spreading through the village."
-msgstr "une terrible peste se propage rapidement dans le village."
-
-#: ../../script/events/outside.js:136
-msgid "5 medicine"
-msgstr "5 médicaments"
-
-#: ../../script/events/outside.js:141
-msgid "do nothing"
-msgstr "ne rien faire"
-
-#: ../../script/events/outside.js:148
-msgid "the plague is kept from spreading."
-msgstr "La peste ne se propage plus."
-
-#: ../../script/events/outside.js:149
-msgid "only a few die."
-msgstr "seuls quelques uns meurent."
-
-#: ../../script/events/outside.js:150
-msgid "the rest bury them."
-msgstr "ils sont enterrés par les survivants."
-
-#: ../../script/events/outside.js:165
-msgid "the plague rips through the village."
-msgstr "la peste décime tout le village"
-
-#: ../../script/events/outside.js:167
-msgid "the only hope is a quick death."
-msgstr "le seul espoir est une mort rapide."
-
-#: ../../script/events/outside.js:184
-msgid "A Beast Attack"
-msgstr "Une attaque de bête"
-
-#: ../../script/events/outside.js:191
-msgid "a pack of snarling beasts pours out of the trees."
-msgstr "une meute de bêtes sort de la foret."
-
-#: ../../script/events/outside.js:192
-msgid "the fight is short and bloody, but the beasts are repelled."
-msgstr "le combat est bref et sanglant, mais les bêtes sont repoussées."
-
-#: ../../script/events/outside.js:193
-msgid "the villagers retreat to mourn the dead."
-msgstr "les villageois rentrent et vont pleurer leurs morts"
-
-#: ../../script/events/outside.js:215
-msgid "A Military Raid"
-msgstr "Un raid militaire"
-
-#: ../../script/events/outside.js:222
-msgid "a gunshot rings through the trees."
-msgstr "une détonation retenti dans la forêt."
-
-#: ../../script/events/outside.js:223
-msgid "well armed men charge out of the forest, firing into the crowd."
-msgstr ""
-"des hommes armés surgissent hors de la foret et tirent sur tout ce qui bouge."
-
-#: ../../script/events/outside.js:224
-msgid "after a skirmish they are driven away, but not without losses."
-msgstr "ils sont repoussés après une escarmouche, mais pas sans pertes."
 
 #: ../../script/events/global.js:6
 msgid "The Thief"

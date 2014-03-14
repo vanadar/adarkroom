@@ -144,11 +144,15 @@
   position:relative;
 }
 
+.endGameShare,
 .endGameRestart {
 	font-size: 32px;
 	cursor: pointer;
+	margin-left: 15px;
+	margin-right: 15px;
 }
 
+.endGameShare:hover,
 .endGameRestart:hover {
 	text-decoration: underline;
 }

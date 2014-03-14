@@ -46,5 +46,43 @@ var Score = {
 
 	totalScore : function() {
 		return $SM.get('previous.score', true) + Score.calculateScore();
+	},
+	
+	share: function(score) {
+		Events.startEvent({
+			title: _('Share'),
+			scenes: {
+				start: {
+					text: [_('share your score with your friends.')],
+					buttons: {
+						'facebook': {
+							text: _('facebook'),
+							nextScene: 'end',
+							onChoose: function() {	
+								window.open('https://www.facebook.com/sharer/sharer.php?u=' + Engine.SITE_URL, 'sharer', 'width=626,height=436,location=no,menubar=no,resizable=no,scrollbars=no,status=no,toolbar=no');
+							}
+						},
+						'google': {
+							text:_('google+'),
+							nextScene: 'end',
+							onChoose: function() {
+								window.open('https://plus.google.com/share?url=' + Engine.SITE_URL, 'sharer', 'width=480,height=436,location=no,menubar=no,resizable=no,scrollbars=no,status=no,toolbar=no');
+							}
+						},
+						'twitter': {
+							text: _('twitter'),
+							onChoose: function() {
+								window.open('https://twitter.com/intent/tweet?text=scored%20'+score+'%20points%20%on20A%20Dark%20Room&url=' + Engine.SITE_URL, 'sharer', 'width=660,height=260,location=no,menubar=no,resizable=no,scrollbars=yes,status=no,toolbar=no');
+							},
+							nextScene: 'end'
+						},
+						'close': {
+							text: _('close'),
+							nextScene: 'end'
+						}
+					}
+				}
+			}
+		}, {width: '400px'});
 	}
 };

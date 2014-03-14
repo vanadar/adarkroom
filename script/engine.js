@@ -6,7 +6,8 @@ var Engine = {
 	 * 	  value-change events. These events should be fired whenever a value (or group of values, I suppose) is updated.
 	 * 	  That would be so elegant and awesome.
 	 */
-	SITE_URL: encodeURIComponent("http://adarkroom.doublespeakgames.com"),
+	SITE_URL: encodeURIComponent("http://adarkroom.vanadar.com"),
+	FACEBOOK_APP_ID: '222225387976672',
 	VERSION: 1.3,
 	MAX_STORE: 99999999999999,
 	SAVE_DISPLAY: 30 * 1000,
